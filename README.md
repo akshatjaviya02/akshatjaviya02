@@ -8,6 +8,7 @@
 - 📫 How to reach me **akshatjaviya02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+  https://calendar.app.google/cZdMUqfARaN5d5eb6
 <p align="left">
 </p>
 
