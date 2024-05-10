@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CardGen**
 
-- 💬 Ask me about **React, Flask, Django, MySQL**
+- 💬 Ask me about **React, Flask, Django, MySQL, Data Science, Python, C++, and debugging**
 
 - 📫 How to reach me **akshatjaviya02@gmail.com**
 
